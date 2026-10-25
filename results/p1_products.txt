@@ -1,0 +1,28 @@
+1. Read products.csv
+Rows: 50
++----------+------------+-----------+-----+
+|product_id|product_name|category   |price|
++----------+------------+-----------+-----+
+|NULL      |Product_25  |Electronics|7.40 |
+|1         |Product_1   |Beauty     |8.30 |
+|2         |Product_2   |Home       |8.30 |
+|3         |Product_3   |Electronics|9.20 |
+|4         |Product_4   |Electronics|2.60 |
+|5         |Product_5   |Electronics|9.40 |
+|6         |Product_6   |Sports     |8.70 |
+|7         |Product_7   |Beauty     |8.20 |
+|8         |Product_8   |Sports     |1.00 |
+|9         |Product_9   |Beauty     |6.00 |
+|10        |Product_10  |Sports     |5.40 |
+|11        |Product_11  |Sports     |8.60 |
+|12        |Product_12  |Home       |1.30 |
+|13        |Product_13  |Sports     |7.10 |
+|14        |Product_14  |Clothing   |7.40 |
+|15        |NULL        |Home       |4.10 |
+|16        |Product_16  |Sports     |4.30 |
+|17        |Product_17  |Electronics|8.10 |
+|18        |Product_18  |Clothing   |4.80 |
+|19        |Product_19  |Clothing   |3.50 |
++----------+------------+-----------+-----+
+only showing top 20 rows
+

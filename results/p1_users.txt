@@ -1,0 +1,28 @@
+1. Read users.csv
+Rows: 100
++-------+-------+---+------------------+
+|user_id|name   |age|email             |
++-------+-------+---+------------------+
+|1      |User_1 |45 |user1@example.com |
+|2      |User_2 |48 |user2@example.com |
+|3      |User_3 |36 |user3@example.com |
+|4      |User_4 |46 |user4@example.com |
+|5      |User_5 |29 |user5@example.com |
+|6      |User_6 |39 |user6@example.com |
+|7      |User_7 |24 |user7@example.com |
+|8      |User_8 |44 |user8@example.com |
+|9      |User_9 |27 |user9@example.com |
+|10     |User_10|43 |user10@example.com|
+|11     |User_11|36 |user11@example.com|
+|12     |User_12|24 |user12@example.com|
+|13     |User_13|47 |user13@example.com|
+|14     |User_14|20 |user14@example.com|
+|15     |User_15|30 |user15@example.com|
+|16     |User_16|30 |user16@example.com|
+|17     |User_17|35 |user17@example.com|
+|18     |User_18|45 |user18@example.com|
+|19     |User_19|47 |user19@example.com|
+|20     |User_20|43 |user20@example.com|
++-------+-------+---+------------------+
+only showing top 20 rows
+

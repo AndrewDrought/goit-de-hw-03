@@ -1,0 +1,6 @@
+PASS: Spark results independently verified using Python csv + Decimal.
+Clean rows: users=95, purchases=195, products=47.
+All-category total (purchases + products): 5751.00.
+Age 18-25 total: 1207.60.
+Rounded percentage sum: 100.00.
+Category totals, shares and top-3 order match.

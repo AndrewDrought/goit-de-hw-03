@@ -1,0 +1,10 @@
+2. Drop rows with missing values
+Rows: 3
++---------+------+-----+-------+
+|dataset  |before|after|removed|
++---------+------+-----+-------+
+|users    |100   |95   |5      |
+|purchases|200   |195  |5      |
+|products |50    |47   |3      |
++---------+------+-----+-------+
+

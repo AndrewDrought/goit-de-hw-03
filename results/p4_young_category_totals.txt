@@ -1,0 +1,12 @@
+4. Spending by category, ages 18-25 inclusive
+Rows: 5
++-----------+------------------+
+|category   |total_amount_18_25|
++-----------+------------------+
+|Home       |361.10            |
+|Sports     |310.50            |
+|Electronics|249.60            |
+|Clothing   |245.00            |
+|Beauty     |41.40             |
++-----------+------------------+
+
